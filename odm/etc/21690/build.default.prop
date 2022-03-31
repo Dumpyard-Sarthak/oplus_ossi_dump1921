@@ -1,0 +1,44 @@
+
+# InitEnv
+
+# Build.java
+ro.build.id=SP1A.210812.016
+ro.product.manufacturer=realme
+ro.product.brand=realme
+ro.product.model=RMX3151
+ro.product.name=RMX3151
+ro.product.device=RE54B4L1
+ro.product.first_api_level=30
+ro.board.first_api_level=30
+ro.build.version.incremental=R.202202190422
+ro.build.version.release=12
+ro.build.fingerprint=realme/RMX3151/RE54B4L1:12/SP1A.210812.016/R.202202190422:user/release-keys
+ro.odm.build.fingerprint=realme/RMX3151/RE54B4L1:12/SP1A.210812.016/R.202202190422:user/release-keys
+ro.odm.build.version.incremental=R.202202190422
+ro.product.odm.brand=realme
+ro.product.odm.manufacturer=realme
+ro.product.odm.model=RMX3151
+ro.product.odm.device=RE54B4L1
+ro.product.odm.name=RMX3151
+ro.odm.build.date=Mon Mar 28 23:59:32 CST 2022
+ro.odm.build.date.utc=1648483172
+ro.bootimage.build.fingerprint=realme/RMX3151/RE54B4L1:12/SP1A.210812.016/R.202202190422:user/release-keys
+ro.bootimage.build.version.incremental=R.202202190422
+ro.product.bootimage.brand=realme
+ro.product.bootimage.manufacturer=realme
+ro.product.bootimage.model=RMX3151
+ro.product.bootimage.device=RE54B4L1
+ro.product.bootimage.name=RMX3151
+ro.bootimage.build.date=Mon Mar 28 23:59:32 CST 2022
+ro.bootimage.build.date.utc=1648483172
+ro.vendor.build.fingerprint=realme/RMX3151/RE54B4L1:12/SP1A.210812.016/R.202202190422:user/release-keys
+ro.vendor.build.version.incremental=R.202202190422
+ro.product.vendor.brand=realme
+ro.product.vendor.manufacturer=realme
+ro.product.vendor.model=RMX3151
+ro.product.vendor.device=RE54B4L1
+ro.product.vendor.name=RMX3151
+ro.vendor.build.date=Mon Mar 28 23:59:32 CST 2022
+ro.vendor.build.date.utc=1648483172
+
+# OPPO
